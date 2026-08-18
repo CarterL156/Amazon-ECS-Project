@@ -32,4 +32,44 @@ Set up IDE environment using VSCode
 
 # Deploy With AWS Console
 
+# Amazon ECR
+
+Created ECR repositories for web, cats, and dogs.
+
+Build docker images for web, cats, and dogs
+
+Tag and push container images to repositories
+
+# Amazon ECS
+
+ECS Cluster is a logical grouping of tasks or services
+ 
+Go to EC2 Page and create and configure security group
+
+Create and configure ECS Cluster Security Group
+
+Create ECS Cluster
+
+Create web, cats, dogs task definition and configure
+
+Create and configure load balancer and web, cats, dogs service
+
+# Monitoring
+
+Use Amazon CloudWatch Container Insights to visualize log data from cats service
+
+# Auto Scaling
+
+Use ECS CloudWatch metrics to scale cats and dogs service/cluster
+
+Configure service and cluster auto scale
+
+# CI/CD Pipeline
+
+Will create a CI/CD pipeline using AWS code services so that there is a AWS Code commit repository
+that builds a new contianer image and deploys it to amazon ecs whenever the source is modified
+
+Configure and go to AWS code pipeline to create a pipeline.
+
+Modified code of dogs service to verify pipeline is working.
 
