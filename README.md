@@ -20,3 +20,8 @@ Successful completion of this workshop will give us a working example of:
     Amazon EC2
     Amazon Application Load Balancer (ALB)
 
+Signed up for free tier AWS account
+Created IAM user and configured according to instructions.
+Download AWS CloudFormation template from workshop, and then uploaded it to cloudformation console.
+Set up IDE environment using VSCode
+
