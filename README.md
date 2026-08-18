@@ -30,7 +30,6 @@ Download AWS CloudFormation template from workshop, and then uploaded it to clou
 
 Set up IDE environment using VSCode
 
-# Deploy With AWS Console
 
 # Amazon ECR
 
